@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=今日便利贴
+Comment=记录今天要做什么
+Exec=/usr/bin/python3 /home/xinyi/codeX/sticky-today/sticky_today.py
+Path=/home/xinyi/codeX/sticky-today
+Icon=/home/xinyi/codeX/sticky-today/sticky_today.png
+Terminal=false
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=Stickytoday
