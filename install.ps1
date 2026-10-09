@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 
 $project = Split-Path -Parent $MyInvocation.MyCommand.Path
 $script = Join-Path $project "sticky_today.py"
